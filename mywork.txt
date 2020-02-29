@@ -1,0 +1,22 @@
+My associate id:
+845029
+Other team members:
+845029,845030,845064,845091
+Team lead:
+845064
+My Role in team:
+1. To develop placeorder and view order
+My development files:
+1. vieworder.component.html
+2. placeorder.component.html
+3.placeorder.component.css
+4.vieworder.component.css
+5.Services
+6.models
+7.db.json
+I was strong in:
+1.Services
+2.Json-server
+
+
+
